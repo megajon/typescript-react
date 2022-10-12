@@ -21,7 +21,7 @@ const drink = {
 }
 
 const str = {
-  str: 'string';
+  str: 'string'
 }
 
 const printSummary = (item: Reportable): void => {
